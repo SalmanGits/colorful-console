@@ -1,0 +1,23 @@
+{
+  "name": "colorful-console",
+  "version": "1.0.0",
+  "description": "a NPM Package For console log",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalmanGits/colorful-console.git"
+  },
+  "keywords": [
+    "console log colors"
+  ],
+  "author": "Belal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SalmanGits/colorful-console/issues"
+  },
+  "homepage": "https://github.com/SalmanGits/colorful-console#readme"
+}
